@@ -1,3 +1,4 @@
 I'm editing this trough PyCharm
 
-So, after so much testing and error, I managed to add git to path enviroment variables and removing .idea from commit.
+So, after so much testing and error, I managed to add git to path environment variables and removing .idea from commit.
+Test 1
